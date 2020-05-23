@@ -1,6 +1,6 @@
 # OS_Người sản xuất - Người dùng
 #Bài 4 trang 28
-
+https://courses.uet.vnu.edu.vn/pluginfile.php/138144/mod_resource/content/0/NLH%C4%90H-Bai-4.pdf
 
 #Nhà sản xuất:
 do {
